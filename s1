@@ -1,0 +1,37 @@
+eth2      Link encap:Ethernet  HWaddr f6:15:14:5e:65:b8  
+          inet addr:172.18.202.177  Bcast:172.18.202.191  Mask:255.255.255.240
+          inet6 addr: fe80::6140:cc02:543:fc49/64 Scope:Global
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+eth3      Link encap:Ethernet  HWaddr 00:15:5d:80:0d:02  
+          inet addr:10.0.75.1  Bcast:10.0.75.255  Mask:255.255.255.0
+          inet6 addr: fe80::5012:9497:c1d1:b590/64 Scope:Global
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Global
+          UP LOOPBACK RUNNING  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+wifi0     Link encap:UNSPEC  HWaddr 24-77-03-A5-B4-90-00-00-00-00-00-00-00-00-00-00  
+          inet addr:192.168.128.11  Bcast:192.168.128.255  Mask:255.255.255.0
+          inet6 addr: 2600:1:9301:b260:f863:1a70:59ab:3e12/64 Scope:Global
+          inet6 addr: 2600:1:9301:b260:c412:667c:6b9f:ebb6/128 Scope:Global
+          inet6 addr: fe80::f863:1a70:59ab:3e12/64 Scope:Global
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
